@@ -1,6 +1,6 @@
 ### Hi there, my name is Nada! 👋
 
-✨ I have a degree in in Business Intelligence and I am currently majoring in Software Engineering. I have a comprehensive marketing and analytics background. I like increasing my learning opportunities and getting the exposure I need to advance my career using what I've already learned. As much as I am into data manipulation, data analysis gets me going. I want to learn more about how to explore the relationships between numbers and translate digits and spreadsheets into stories.
+✨ I have 2 degree in in Business Intelligence and Software Engineering. I have a comprehensive marketing and analytics background. I like increasing my learning opportunities and getting the exposure I need to advance my career using what I've already learned. As much as I am into data manipulation, data analysis gets me going. I want to learn more about how to explore the relationships between numbers and translate digits and spreadsheets into stories.
 
 # 🌐 Contact me via:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arfaouinada68@gmail.com)
