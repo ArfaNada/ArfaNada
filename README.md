@@ -1,6 +1,8 @@
 ### Hi there, my name is Nada! 👋
 
-✨ I have 2 degrees in Business Intelligence and Software Engineering. I have a comprehensive marketing and analytics background. I like increasing my learning opportunities and getting the exposure I need to advance my career using what I've already learned. As much as I enjoy working with data, I'm especially excited about artificial intelligence , particularly how we can build intelligent systems that go beyond analysis to learn, adapt, and solve real-world problems. I'm eager to deepen my understanding of LLMs, AI agents, and the way AI is transforming different fields , making machines not just informative, but meaningfully helpful.
+✨ I hold degrees in **Business Intelligence** and **Software Engineering** with a strong background in **marketing** and **analytics**. I’m passionate about **continuous learning** and applying my skills to real-world problems.
+
+While I enjoy working with data, I’m especially excited about **Artificial Intelligence**—building systems that **learn, adapt, and solve problems**. Currently, I’m focused on **LLMs, AI agents**, and exploring how AI is transforming industries to create **meaningful impact**.
 
 # 🌐 Contact me via
 
